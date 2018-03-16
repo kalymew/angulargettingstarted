@@ -51,5 +51,5 @@ export class ProductListComponent implements OnInit {
         this.filteredProducts = this.products;
       }
 
-  // maw!
+
 }
